@@ -1,0 +1,151 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "Contact": [
+    {
+      "yourname": "prit",
+      "email": "pritladani07@gmail.com",
+      "mobile": "9099525868",
+      "massage": "hello !",
+      "id": 1
+    },
+    {
+      "yourname": "dhavlbhai",
+      "email": "dhavlkanjariya@gmail.com",
+      "mobile": "98251665115",
+      "massage": "hello",
+      "id": 2
+    },
+    {
+      "yourname": "smitladani",
+      "email": "smit@gmail.com",
+      "mobile": "9898001553",
+      "massage": "hii",
+      "id": 3
+    },
+    {
+      "yourname": "prit",
+      "email": "pritladani07@gmail.com",
+      "mobile": "9099525868",
+      "massage": "hello",
+      "id": 4
+    },
+    {
+      "yourname": "rutvik",
+      "email": "pritladani07@gmail.com",
+      "mobile": "9099525868",
+      "massage": "hello",
+      "id": 5
+    }
+  ],
+  "Category": [
+    {
+      "addcatgory": "Products",
+      "adddate": "2023-07-20",
+      "descriptions": "Good",
+      "id": 1
+    }
+  ],
+  "Subcategory": [
+    {
+      "addcatgory": "Products",
+      "subcategoryname": "JCB",
+      "adddate": "2023-07-21",
+      "descriptions": "Good",
+      "id": 1
+    }
+  ],
+  "Products": [
+    {
+      "addcatgory": "Products",
+      "subcategoryname": "JCB",
+      "productname": "JCB 130 Excavator",
+      "productimg": "https://www.jcb.com/dfsmedia/261086efe15a46f5afb95d093ef038ea/40820-50121/resize/525x350/options/keepaspectratio/jcb-130-excavator-1050-768",
+      "productqut": "1",
+      "productprice": "45 - 48 lakh",
+      "productpower": "80 hp",
+      "productcapacity": "0.65 cp",
+      "addedate": "2023-07-20",
+      "descriptions": "GOOD",
+      "id": 3
+    },
+    {
+      "addcatgory": "Products",
+      "subcategoryname": "JCB",
+      "productname": "JCB 530-110 Telehandler",
+      "productimg": "https://www.jcb.com/dfsmedia/261086efe15a46f5afb95d093ef038ea/48200-50121/resize/525x350/options/keepaspectratio/jcb-th-530-110-1050-700",
+      "productqut": "1",
+      "productprice": "30 - 32 lakh",
+      "productpower": "98 hp",
+      "productcapacity": "1.3 cp",
+      "addedate": "2023-07-20",
+      "descriptions": "Good",
+      "id": 4
+    }
+  ],
+  "Contactdealer": [
+    {
+      "id": 1,
+      "username": "prit",
+      "phone": "9099525868",
+      "city": "rajkot"
+    },
+    {
+      "username": "Niya patel",
+      "phone": "9974371151",
+      "city": "Junagdha",
+      "id": 2
+    },
+    {
+      "username": "Shivam Dalsaniya",
+      "phone": "7567968294",
+      "city": "Bhayavadr",
+      "id": 3
+    },
+    {
+      "username": "Jahangir ",
+      "phone": "9904978950",
+      "city": "Wankaner",
+      "id": 4
+    },
+    {
+      "username": "Dhavl bhai",
+      "phone": "9825166515",
+      "city": "Junagdha",
+      "id": 5
+    },
+    {
+      "username": "prit ladani",
+      "phone": "9099525868",
+      "city": "rajkot",
+      "id": 6
+    },
+    {
+      "username": "Rutvik",
+      "phone": "9624087443",
+      "city": "jnd",
+      "id": 7
+    },
+    {
+      "username": "prit",
+      "phone": "9099525868",
+      "city": "rajkot",
+      "id": 8
+    }
+  ]
+}
